@@ -1,0 +1,6 @@
+tag	sample
+tag0	isotype
+tag1	label1
+tag2	label2
+tag3	ICB1
+tag4	ICB2
