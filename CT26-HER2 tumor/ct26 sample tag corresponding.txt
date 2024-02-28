@@ -1,4 +1,0 @@
-tag	sample
-tag16	unlabel
-tag17	label1
-tag18	label2

@@ -11,7 +11,7 @@ library(ggplot2)
 #load data
 smk <- read_tsv("tag16_umi_tag.tsv",col_names = FALSE)
 WTA <- Read10X("CINTERseq_CT26hHER2")
-tag.smp <- read_tsv("tag16-18.txt", col_names = T)
+tag.smp <- read_tsv("tag5-7.txt", col_names = T)
 projectname <- c("tag16")
 biotin <- read_tsv("tagbiotin_umi_tag.tsv")
 
